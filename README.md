@@ -35,6 +35,6 @@ Criar uma aplicação web com os seguintes passos:
 
 Exemplo:
 
-wwwroot\assets\main.css
-wwwroot\assets\libs.js
-wwwroot\assets\main.js
+wwwroot\assets\main.css <br />
+wwwroot\assets\libs.js <br />
+wwwroot\assets\main.js <br />
