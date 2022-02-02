@@ -4,6 +4,7 @@
 
 * Javascript/Jquery
 * C#
+* Project net core 3.1
 
 ## Exercício 
 
